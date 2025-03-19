@@ -47,7 +47,7 @@ Interact with Visuals: Use filters and slicers to explore data based on differen
 Analyze KPIs: Track overall sales performance and profitability.
 
 ## Dashboard(PowerBI Services):
-![Image](https://github.com/user-attachments/assets/eb34db1d-a30a-483e-a44a-82bff92d0769)
+![Image](https://github.com/user-attachments/assets/a4f5a564-7607-47e7-8b95-eca0efd90b8e)
 
 ## Conclusion
 
